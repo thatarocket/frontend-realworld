@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+- "Github Actions badge" mostrando o status workflow referente a branch master (deve ser: passing) </p>
+![CI/CD](https://github.com/thatarocket/frontend-realworld/actions/workflows/ci.yml/badge.svg) </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
