@@ -1,5 +1,4 @@
-- "Github Actions badge" mostrando o status workflow referente a branch master (deve ser: passing) </p>
-![CI/CD](https://github.com/thatarocket/frontend-realworld/actions/workflows/ci.yml/badge.svg) </p>
+[![CI](https://github.com/thatarocket/frontend-realworld/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/thatarocket/frontend-realworld/actions/workflows/ci.yml)
 
 [![Node.js CI](https://github.com/thatarocket/frontend-realworld/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/thatarocket/frontend-realworld/actions/workflows/node.js.yml)
 
